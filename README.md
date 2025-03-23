@@ -79,7 +79,3 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitwise74&theme=nord&layout=compact" />
 </a>
-
-<a href="">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bitwise74&theme=nord&langs_count=5"/>
-</a>
