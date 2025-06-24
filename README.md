@@ -17,7 +17,7 @@ I'm interested in numerous fields of programming, like backend web development, 
     <li>🌍 TCP/IP</li>
     <li>📦 Containerization (Docker)</li>
 </ul>
-<h1>Languages I use:</h1>
+<h1>💬 Languages I use:</h1>
 <ul>
     <li>⚙️ Go</li>
     <li>🟦 TypeScript</li>
@@ -25,7 +25,7 @@ I'm interested in numerous fields of programming, like backend web development, 
     <li>🔧 C (Learning)</li>
     <li>🦀 Rust (Learning)</li>
 </ul>
-<h1>My favorite projects:</h1>
+<h1>🛠️ My favorite projects:</h1>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -69,7 +69,7 @@ I'm interested in numerous fields of programming, like backend web development, 
   </tbody>
 </table>
 
-<h1>And lastly some profile stats</h1>
+<h1>📊 And lastly some profile stats:</h1>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bitwise74&show_icons=true&theme=nord" />
 </a>
