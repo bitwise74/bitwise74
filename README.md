@@ -35,7 +35,7 @@
 <!--   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> -->
 <!--   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />  -->
 <!--   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" /> -->
-<h2>Projects I'm proud of</h3>
+<h2>Some of my projects</h2>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -48,14 +48,14 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/bitwise74/The-World-Machine-Bot"><b>The world machine - A discord music bot</b></a></td>
+      <td><a href="https://github.com/bitwise74/The-World-Machine-Bot"><b>The world machine</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/bitwise74/The-World-Machine-Bot?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/bitwise74/The-World-Machine-Bot?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/bitwise74/The-World-Machine-Bot?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/bitwise74/The-World-Machine-Bot?style=flat-square&labelColor=343b41"/></td>
     </tr>
        <tr>
-          <td><a href="https://github.com/bitwise74/vxinst"><b>Vxinst</b><a/></td>
+          <td><a href="https://github.com/bitwise74/vxinst"><b>VxInstagram</b><a/></td>
           <td><img alt="Stars" src="https://img.shields.io/github/stars/bitwise74/vxinst?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Forks" src="https://img.shields.io/github/forks/bitwise74/vxinst?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Issues" src="https://img.shields.io/github/issues/bitwise74/vxinst?style=flat-square&labelColor=343b41"/></td>
@@ -67,6 +67,13 @@
           <td><img alt="Forks" src="https://img.shields.io/github/forks/bitwise74/tipitipi-backend?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Issues" src="https://img.shields.io/github/issues/bitwise74/tipitipi-backend?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/bitwise74/tipitipi-backend?style=flat-square&labelColor=343b41"/></td>
+      </tr>
+      <tr>
+          <td><a href="https://github.com/bitwise74/url-shortener"><b>URL shortener</b><a/></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/bitwise74/url-shortener?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/bitwise74/url-shortener?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/bitwise74/url-shortener?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/bitwise74/url-shortener?style=flat-square&labelColor=343b41"/></td>
       </tr>
    </tr>
   </tbody>
