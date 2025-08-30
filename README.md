@@ -52,18 +52,11 @@ I'm interested in numerous fields of programming, like backend web development, 
           <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/bitwise74/vxinst?style=flat-square&labelColor=343b41"/></td>
       </tr>
       <tr>
-          <td><a href="https://github.com/bitwise74/tipitipi-backend"><b>Tipitipi backend</b><a/></td>
-          <td><img alt="Stars" src="https://img.shields.io/github/stars/bitwise74/tipitipi-backend?style=flat-square&labelColor=343b41"/></td>
-          <td><img alt="Forks" src="https://img.shields.io/github/forks/bitwise74/tipitipi-backend?style=flat-square&labelColor=343b41"/></td>
-          <td><img alt="Issues" src="https://img.shields.io/github/issues/bitwise74/tipitipi-backend?style=flat-square&labelColor=343b41"/></td>
-          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/bitwise74/tipitipi-backend?style=flat-square&labelColor=343b41"/></td>
-      </tr>
-      <tr>
-          <td><a href="https://github.com/bitwise74/url-shortener"><b>URL shortener</b><a/></td>
-          <td><img alt="Stars" src="https://img.shields.io/github/stars/bitwise74/url-shortener?style=flat-square&labelColor=343b41"/></td>
-          <td><img alt="Forks" src="https://img.shields.io/github/forks/bitwise74/url-shortener?style=flat-square&labelColor=343b41"/></td>
-          <td><img alt="Issues" src="https://img.shields.io/github/issues/bitwise74/url-shortener?style=flat-square&labelColor=343b41"/></td>
-          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/bitwise74/url-shortener?style=flat-square&labelColor=343b41"/></td>
+          <td><a href="https://github.com/bitwise74/vid.sh"><b>Vid.sh</b><a/></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/bitwise74/vid.sh?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/bitwise74/vid.sh?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/bitwise74/vid.sh?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/bitwise74/vid.sh?style=flat-square&labelColor=343b41"/></td>
       </tr>
    </tr>
   </tbody>
