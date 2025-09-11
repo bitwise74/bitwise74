@@ -17,14 +17,13 @@ I'm interested in numerous fields of programming, like backend web development, 
     <li>🌍 TCP/IP</li>
     <li>📦 Containerization (Docker)</li>
 </ul>
-<h1>💬 Languages I use:</h1>
-<ul>
-    <li>⚙️ Go</li>
-    <li>🟦 TypeScript</li>
-    <li>🐍 Python</li>
-    <li>🔧 C (Learning)</li>
-    <li>🦀 Rust (Learning)</li>
-</ul>
+<h1>Things I Use:</h1>
+<h2>Languages:</h2>
+<img src="https://skillicons.dev/icons?i=go,ts,css,c,bootstrap,rust,svelte,html,js">
+<h2>Technologies:</h2>
+<img src="https://skillicons.dev/icons?i=docker,sqlite,postgres,linux,bun,grafana,nodejs,vite">
+<h2>Everything else:</h2>
+<img src="https://skillicons.dev/icons?i=git,postman,aws,cloudflare,redis,nginx">
 <h1>🛠️ My favorite projects:</h1>
 <table>
   <thead align="center">
