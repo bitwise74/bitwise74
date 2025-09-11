@@ -58,6 +58,13 @@ I'm interested in numerous fields of programming, like backend web development, 
           <td><img alt="Issues" src="https://img.shields.io/github/issues/bitwise74/vid.sh?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/bitwise74/vid.sh?style=flat-square&labelColor=343b41"/></td>
       </tr>
+      <tr>
+          <td><a href="https://github.com/dhopcs/pp-calc-ng"><b>Osu pp counter (frontend)</b><a/></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/dhopcs/pp-calc-ng?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/dhopcs/pp-calc-ng?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/dhopcs/pp-calc-ng?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/dhopcs/pp-calc-ng?style=flat-square&labelColor=343b41"/></td>
+      </tr>
    </tr>
   </tbody>
 </table>
