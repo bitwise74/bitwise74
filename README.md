@@ -1,10 +1,13 @@
-<h1>Welcome to my profile!</h1>
-
+<h1>Welcome to my profile</h1>
 <p>
-    I'm bitwise, a software developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197529.png" width="13"/> <b>Poland</b> passionate about backend and apps to improve the quality of life for people
+    I'm Bitwise, a software engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197529.png" width="13"/><b> Poland</b>. I specialize in building robust backend systems and fullstack applications
 </p>
-<h1>🌟 Some of my highlights</h1>
-I'm interested in numerous fields of programming, like backend web development, low-level coding and some light UI/UX stuff. I'm also very happy to learn new things that will help me write better software. Some concepts I know quite well are: 
+<p>
+    I have extensive experience across backend development, low-level coding, and system design. 
+    I’m always pushing the limits of what software can do, and I take pride in writing code that others rely on daily.<br>
+    Some of the concepts I’ve mastered include:
+</p>
+
 <ul>
     <li>🌐 RESTful APIs</li>
     <li>🔌 WebSockets</li>
@@ -17,6 +20,12 @@ I'm interested in numerous fields of programming, like backend web development, 
     <li>🌍 TCP/IP</li>
     <li>📦 Containerization (Docker)</li>
 </ul>
+
+<p>
+    I don’t just write code. I build systems that last, perform, and impress. 
+    If it needs to run reliably under pressure, it’s my domain.
+</p>
+
 <h1>Things I Use:</h1>
 <h2>Languages:</h2>
 <img src="https://skillicons.dev/icons?i=go,ts,css,c,bootstrap,rust,svelte,html,js">
