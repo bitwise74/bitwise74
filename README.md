@@ -1,10 +1,22 @@
 <h1>Welcome to my profile</h1>
 <p>
-    I'm Bitwise, a software engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197529.png" width="13"/><b> Poland</b>. I specialize in building robust backend systems and fullstack applications<br>
+    I'm Bitwise, a software engineer from <b> Poland</b>. I specialize in building robust backend systems and fullstack applications<br>
     I have extensive experience across backend development, low-level coding, and system design.<br>
 </p>
 <p>
     Currently I'm working on multiple projects and studying Computer Science at the Silesian University of Technology in Gliwice. I love to learn new things and understand how the tools I work with do their job under the hood.
+</p>
+<p>
+    In my free time I also like to contribute to open source projects I find useful or even create my own solutions to problems others or myself may face.
+</p>
+<p>
+    My Go experience consists of the following points:
+    <ul>
+        <li>I've written very performant, custom RESTful APIs for websites serving content like blog posts, videos, etc. </li>
+        <li>I have good experience with multi-threading, concurrency, thread safety and performance improvements,</li>
+        <li>My projects saw actual growth and users depending on them to finish their daily tasks like editing videos for their websites,</li>
+        <li>I have a great understanding on how to write background processing services that will correctly communicate with the user,</li>
+    </ul>
 </p>
 <p>
     Here are some of the things I work with:
