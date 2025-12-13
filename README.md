@@ -1,3 +1,6 @@
+## I don't use github anymore, this profile is just a mirror of [my gitlab profile](https://gitlab.com/Bitwise74)
+
+
 <h1>Welcome to my profile</h1>
 <p>
     I'm Bitwise, a software engineer from <b> Poland</b>. I specialize in building robust backend systems and fullstack applications<br>
