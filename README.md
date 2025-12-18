@@ -1,4 +1,4 @@
-## I don't use github anymore, this profile is just a mirror of [my gitlab profile](https://gitlab.com/Bitwise74)
+# I don't use github anymore, this profile and it's repositories are mirrored from [my gitlab profile](https://gitlab.com/Bitwise74)
 
 
 <h1>Welcome to my profile</h1>
