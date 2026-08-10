@@ -1,4 +1,4 @@
-# I don't use github anymore, this profile and it's repositories are mirrored from [my gitlab profile](https://gitlab.com/Bitwise74)
+# I don't use github anymore, this profile and it's repositories are mirrored from [my forgejo profile](https://git.0xbit.dev)
 
 
 <h1>Welcome to my profile</h1>
